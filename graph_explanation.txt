@@ -1,0 +1,1 @@
+﻿The graph displays the relationships between similar movies. The bigger and more purple a node is the higher its degree, meaning the more similar movies there are to that movie. There are 6 very prominent movies out of 877 that have many other movies similar to them.

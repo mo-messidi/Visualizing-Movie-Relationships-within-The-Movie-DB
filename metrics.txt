@@ -1,0 +1,6 @@
+Average node degree = 1.323. It represents the average number of edges entering (in-degree) and leaving (out-degree) of each of the nodes in the graph.
+
+Network diameter = 5. It represents how far apart the two most distant connected nodes in the graph where a value of 1 means the two most distant nodes are directly connected to each other.
+
+Average Path length = 1.419. It represents the average distance between connected nodes in the graph where a value of 1 means all nodes are directly connected to each other.
+
